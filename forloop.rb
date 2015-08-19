@@ -2,3 +2,8 @@
 # syntax = for variable [, variable ...] in expression [do]
 #          code
 #          end
+# two dots(..) includes the last digit
+
+for i in 0..5
+   puts "Value of local variable is #{i}"
+end
