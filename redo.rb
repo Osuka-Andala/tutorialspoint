@@ -1,9 +1,13 @@
 # It restarts iteration without checking for the loop conditions
 # syntax = redo
 
-for i in 0..5
-   if i < 2 then
-      puts "Value of local variable is #{i}"
+for x in 0..5
+
+   if x < 2 then
+
+      puts "Value of local variable is #{x}"
+
       redo
    end
+
 end
