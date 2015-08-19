@@ -13,7 +13,7 @@ while i < num do
 	
 end
 
-# while modifier comes after a begin statement
+# while modifier comes after a begin statement with no rescue or ensure clauses
 # 	syntax= begin 
 # 		     code
 # 		 end while conditional
