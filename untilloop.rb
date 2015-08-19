@@ -3,13 +3,13 @@
 #         code
 #         end
 
-# i = 0
-# num = 5
-# until i > num 
-# 	puts("Inside the loop = #{i}")
-# 	i += 1
+i = 0
+num = 5
+until i > num 
+	puts("Inside the loop = #{i}")
+	i += 1
 	
-# end
+end
 
 
 
