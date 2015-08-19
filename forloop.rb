@@ -7,3 +7,7 @@
 for i in 0..5
    puts "Value of local variable is #{i}"
 end
+
+
+# almost the same as
+# (expression).each do |variable[, variable...]| code end
