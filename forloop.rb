@@ -4,9 +4,9 @@
 #          end
 # two dots(..) includes the last digit
 
-# for i in 0..5
-#    puts "Value of local variable is #{i}"
-# end
+for i in 0..5
+   puts "Value of local variable is #{i}"
+end
 
 
 # almost the same as
