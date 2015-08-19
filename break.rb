@@ -5,8 +5,10 @@
 
 
 for i in 0..5
+	
 	if i > 3 then
 		break
 	end
+
 	puts "Value of local variable is #{i}"
 end
