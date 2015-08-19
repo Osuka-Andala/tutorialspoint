@@ -12,3 +12,9 @@ while i < num do
 	i += 1
 	
 end
+
+# while modifier comes after a begin statement
+# 	syntax= begin 
+# 		     code
+# 		 end while conditional
+
